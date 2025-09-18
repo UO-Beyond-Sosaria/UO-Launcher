@@ -1,3 +1,5 @@
+---
+
 # **UO Beyond Sosaria – Launcher**
 
 Welcome to **UO Beyond Sosaria**!
@@ -18,29 +20,25 @@ Just pick your favorite assistant and jump right into Sosaria.
 
 ---
 
-## 📥 Installation
-
-### **Option 1 – Download (Recommended)**
-
----
-
 ## 🔒 Safety Note
 
-If you’re concerned about security, the launcher has been scanned and verified on VirusTotal:
+If you’re concerned about security, the launcher has been scanned and verified on **VirusTotal**:
 👉 [View Scan Results](https://www.virustotal.com/gui/file/d23e0b15ddac8f6771dba773e23ac6e2e263a5dba54cfbccdc2618968e2d7980)
 
 ---
 
+## 📥 Installation
+
+### **Option 1 – Download (Recommended)**
+
 1. 📦 [Download the latest release](https://github.com/UO-Beyond-Sosaria)
 2. Right-click the `.zip` file and choose **Extract All…** (or use WinZip, WinRAR, or 7-Zip).
 3. Choose a folder location, e.g. `C:\UOBeyondSosaria`
-   ⚠️ Avoid installing to `Program Files` (Windows permission issues).
+   ⚠️ Avoid installing to `Program Files` (can cause Windows permission issues).
 4. Open the folder and run **UOBeyondSosariaLauncher.exe** as **Administrator**.
 5. Select your preferred assistant and start Beyond Sosaria.
 
-### **Option 2 – Git Clone (For advanced users)**
-
-If you’re familiar with Git:
+### **Option 2 – Git Clone (Advanced users)**
 
 ```bash
 git clone https://github.com/UO-Beyond-Sosaria/UO-Launcher.git
@@ -73,4 +71,8 @@ Want to keep your existing macros & settings? Copy your old profiles into the ne
 
 ⚠️ If the folder doesn’t exist yet, run the game once with your chosen assistant (or create the `Profiles` folder manually).
 
+---
+
 ✨ That’s it! Download, install, and begin your adventure in **UO Beyond Sosaria**.
+
+---
