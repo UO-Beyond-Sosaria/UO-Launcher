@@ -31,7 +31,7 @@ If you’re concerned about security, the launcher has been scanned and verified
 
 ### **Option 1 – Download (Recommended)**
 
-1. 📦 [Download the latest release](https://github.com/UO-Beyond-Sosaria)
+1. 📦 [Download the latest release (.zip)](https://github.com/UO-Beyond-Sosaria/UO-Launcher/archive/refs/heads/main.zip)
 2. Right-click the `.zip` file and choose **Extract All…** (or use WinZip, WinRAR, or 7-Zip).
 3. Choose a folder location, e.g. `C:\UOBeyondSosaria`
    ⚠️ Avoid installing to `Program Files` (can cause Windows permission issues).
@@ -39,6 +39,8 @@ If you’re concerned about security, the launcher has been scanned and verified
 5. Select your preferred assistant and start Beyond Sosaria.
 
 ### **Option 2 – Git Clone (Advanced users)**
+
+If you’re familiar with Git:
 
 ```bash
 git clone https://github.com/UO-Beyond-Sosaria/UO-Launcher.git
