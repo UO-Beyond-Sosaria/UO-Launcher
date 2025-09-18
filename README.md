@@ -69,5 +69,3 @@ Keep your existing macros & settings by copying them into the new directories:
 > ⚠ If the folder doesn’t exist yet, run the game once with your chosen assistant (or create the `Profiles` folder manually).
 
 ✨ That’s it! Download, install, and begin your adventure in **UO Beyond Sosaria**.
-
-Would you like me to **add styled badges/buttons** (like “Join Discord”, “Download Launcher”, etc.) so the top of the README looks really sharp, like a landing page?
