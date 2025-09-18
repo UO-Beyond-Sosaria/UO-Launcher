@@ -1,4 +1,3 @@
-# UO-Launcher
 # UO Beyond Sosaria – Launcher
 
 Welcome to **UO Beyond Sosaria**!
